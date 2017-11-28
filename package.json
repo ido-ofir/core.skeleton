@@ -1,6 +1,6 @@
 {
     "name": "core.skeleton",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "a bare skeleton that can be extended by plugins",
     "main": "index.js",
     "scripts": {
